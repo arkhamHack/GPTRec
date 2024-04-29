@@ -1,4 +1,4 @@
-# GPT4Rec
+# GPT4Rec (backend repository for MovieBox)
 
 Using LLMs to enhance Recommendation Systems. An application to get the movies of your desire.
 
